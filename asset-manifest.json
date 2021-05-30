@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/ef-demo/static/css/main.e82295ba.chunk.css",
     "main.js": "/ef-demo/static/js/main.9700295f.chunk.js",
     "main.js.map": "/ef-demo/static/js/main.9700295f.chunk.js.map",
@@ -14,6 +15,22 @@
   "entrypoints": [
     "static/js/runtime-main.b46e7880.js",
     "static/js/2.8849e8cc.chunk.js",
+=======
+    "main.css": "/jss8882/ef-demo/static/css/main.e82295ba.chunk.css",
+    "main.js": "/jss8882/ef-demo/static/js/main.9700295f.chunk.js",
+    "main.js.map": "/jss8882/ef-demo/static/js/main.9700295f.chunk.js.map",
+    "runtime-main.js": "/jss8882/ef-demo/static/js/runtime-main.e99dfeeb.js",
+    "runtime-main.js.map": "/jss8882/ef-demo/static/js/runtime-main.e99dfeeb.js.map",
+    "static/js/2.38fbadeb.chunk.js": "/jss8882/ef-demo/static/js/2.38fbadeb.chunk.js",
+    "static/js/2.38fbadeb.chunk.js.map": "/jss8882/ef-demo/static/js/2.38fbadeb.chunk.js.map",
+    "index.html": "/jss8882/ef-demo/index.html",
+    "static/css/main.e82295ba.chunk.css.map": "/jss8882/ef-demo/static/css/main.e82295ba.chunk.css.map",
+    "static/js/2.38fbadeb.chunk.js.LICENSE.txt": "/jss8882/ef-demo/static/js/2.38fbadeb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e99dfeeb.js",
+    "static/js/2.38fbadeb.chunk.js",
+>>>>>>> 3fa17deb82dbf20d3fcb18e04bffdbf1f078edd9
     "static/css/main.e82295ba.chunk.css",
     "static/js/main.9700295f.chunk.js"
   ]
